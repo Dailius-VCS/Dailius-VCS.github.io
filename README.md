@@ -93,7 +93,7 @@ Feel free to explore my repositories and reach out!
 ## 📊 GitHub Statistics
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USER_NAME&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailius-vcs&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USER_NAME&layout=donut-vertical&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailius-vcs&layout=donut-vertical&theme=tokyonight)
 
